@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,400|Libre+Baskerville|Pacifico|Playfair+Display&display=swap');
+
+/* Showcase */
+
+.showcase {
+    background:url('../images/hero-bg2.jpg') no-repeat center;
+    background-size: cover;
+    height: 500px;
+    color: black;
+  }
+  
+h1 {
+    text-align: center;
+    padding-top: 14rem;
+    font-size: 50px;
+    color: white;
+    font-family: 'Playfair Display','Quicksand',  serif;
+    letter-spacing: .1rem;
+  }
+
+p {
+    text-align: center;
+    font-size: 34px;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    letter-spacing: .1rem;
+  }
+
+button {
+      /* background-color:#79667A; */
+      background-color: #927C93;
+      /* background-color: #0066cc; */
+      /* border-style: 2px solid #000033; */
+      color: white;
+      margin:0 5px;
+      display:inline-block;
+      width: 300px;
+      height: 45px;
+      border: none;
+      text-transform: uppercase;
+      font-size: 15px;
+      font-family: 'Lato';
+      /* letter-spacing: .5px; */
+  }
+
+  button:hover {
+      background-color: #EDEDFF;
+      border: 1px solid #000033;
+      color: black;
+  }
+  .wrapper {
+    display: flex;
+    justify-content: center;
+  }
