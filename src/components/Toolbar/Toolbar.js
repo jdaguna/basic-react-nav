@@ -13,6 +13,18 @@ const toolbar = props => (
             <div className="spacer"/>
             <div className="toolbar__navigation-items">
                 <ul>
+                    <li>
+                        <div className="dropdown">
+                            <button className="dropbtn">Shop
+                                {/* <FontAwesomeIcon className="search-icon"icon={faSearch} /> */}
+                            </button>
+                             <div className="dropdown-content">
+                                <a href="/">Wedding Rings</a>
+                                <a href="/">Earrings</a>
+                                <a href="/">Diamonds</a>
+                            </div>
+                        </div> 
+                    </li>
                     <li><a href="/">Engagement Rings</a></li>
                     <li><a href="/">We Buy Gold</a></li>
                     <li><a href="/">About</a></li>
