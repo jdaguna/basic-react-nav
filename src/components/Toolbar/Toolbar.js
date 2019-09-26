@@ -14,7 +14,7 @@ const toolbar = props => (
             <div className="toolbar__navigation-items">
                 <ul>
                     <li><a href="/">Engagement Rings</a></li>
-                    <li><a href="/">Sell</a></li>
+                    <li><a href="/">We Buy Gold</a></li>
                     <li><a href="/">About</a></li>
                     <li><a href="/" className="search"><FontAwesomeIcon className="search-icon"icon={faSearch} /></a></li>
                     <li><a href="/" className="search"><FontAwesomeIcon className="search-icon"icon={faShoppingCart} /></a></li>

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.719031f4.chunk.css",
+    "main.js": "/static/js/main.c9b7ac85.chunk.js",
+    "main.js.map": "/static/js/main.c9b7ac85.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.7df4bba6.js",
+    "runtime~main.js.map": "/static/js/runtime~main.7df4bba6.js.map",
+    "static/js/2.47294b08.chunk.js": "/static/js/2.47294b08.chunk.js",
+    "static/js/2.47294b08.chunk.js.map": "/static/js/2.47294b08.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.aa7cb925190971d56170ab3447bb339a.js": "/precache-manifest.aa7cb925190971d56170ab3447bb339a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.719031f4.chunk.css.map": "/static/css/main.719031f4.chunk.css.map",
+    "static/media/hero.css": "/static/media/hero-bg2.5b8d39d2.jpg"
+  }
+}

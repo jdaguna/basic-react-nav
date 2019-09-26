@@ -44,9 +44,10 @@ button {
   }
 
   button:hover {
-      background-color: #EDEDFF;
-      border: 1px solid #000033;
-      color: black;
+      background-color: #c28285;
+      /* background-color: #DDD0DD; */
+      /* border: 1px solid #000033; */
+      /* color: black; */
   }
   .wrapper {
     display: flex;
